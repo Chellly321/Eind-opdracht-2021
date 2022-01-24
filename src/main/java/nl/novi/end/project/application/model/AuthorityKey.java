@@ -1,4 +1,4 @@
 package nl.novi.end.project.application.model;
 
-public class Person {
+public class AuthorityKey {
 }
